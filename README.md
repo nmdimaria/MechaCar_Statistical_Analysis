@@ -30,6 +30,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 - Pictured are the t-tests for the entire maufacturing lot, then the tests for each lot individually. All the lots together have a statistically similar mean to 1500. Both lots 1 and 2 are very statistically similar to our goal mean while lot 3 is lagging behind. As evidenced by our summary statistics for each lot, this is probably due to the much higher level of inconsistancy from the lot 3 production line.
 
+![ttest1](Resources/total_ttest.png)
+
+![ttest2](Resources/lot_ttest.png)
+
 ## Study Design: MechaCar vs Competition
 
 Using your knowledge of R, design a statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
