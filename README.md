@@ -2,6 +2,8 @@
 
 ## Linear Regression to Predict MPG
 
+![linear regression](Resources/multiple_regression.png)
+
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
 - Both vehicle length and ground clearance don't seem to have much effect on MPG while the other variables do.
@@ -15,6 +17,10 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 - This model can fairly accurately predict mpg. The p-value is very low indicating a strong correlation and the r-squared value is quite high indicating that much of the data can be explained within the linear regression model.
 
 ## Summary Statistics on Suspension Coils
+
+![stats1](Resources/total_stats.png)
+
+![stats2](Resources/lot_stats.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
